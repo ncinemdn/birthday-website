@@ -29,20 +29,21 @@ startSlideshow();
 
 const message = `Happiest birthday to my favorite person.
 
-I know this is just a small website, but I wanted to make something that you can open and come back to whenever you want. Something that reminds you how loved you are.
+I know this is just a small website, but I wanted to make something you can open anytime and come back to whenever you want. Something simple that reminds you how loved you are.
 
-Since you came into my life, things have felt lighter and happier. You became the person I tell everything to, the one I run to when something exciting happens, and the one I want beside me even during the most ordinary days.
+Since August 2022, when you came into my life, so many things started to feel different in the best way. The ordinary days didn’t feel so ordinary anymore. Somehow, you became the person I tell everything to — the first one I run to when something exciting happens, and the one I want beside me even during the quiet, normal moments.
 
-I love how you make me laugh without trying, how comfortable everything feels when I’m with you, and how somehow you became my safe place without even realizing it.
+I love how you make me laugh without even trying. I love how being with you feels easy and calm, like I don’t have to pretend to be anyone else. Without even realizing it, you slowly became my safe place.
 
-Looking at these pictures reminds me of all the little memories we’ve made together.
+Looking at these pictures reminds me of all the little memories we’ve made together. The simple moments that didn’t seem big at the time, but now mean so much because they happened with you.
 
-Lagi kong pinapanalangin na h'wag ka na tayong mawala.  Mahal kita, mahal na mahal.
-Lahat handa akong tahakin, para sa'yo, palagi.
+As you turn 21 today, I just want you to know how grateful I am that our paths crossed. Out of all the people in the world, I’m so thankful that somehow it was you who became my person.
 
-Thank you for being patient with me and for always making me feel cared for.
-Happy birthday, my bb, my baby baby, my home, safe space, my tahanan, my palagi. 
-My Yellow❤️
+Lagi kong pinapanalangin na h’wag ka nang mawala sa buhay ko. Mahal kita, mahal na mahal. Lahat handa kong tahakin para sa’yo, palagi.
+
+Happy 21st birthday, my bb, my baby baby, my home, my safe space, my tahanan, my palagi.
+
+My Yellow ❤️
 `;
 
 function typeMessage(){
